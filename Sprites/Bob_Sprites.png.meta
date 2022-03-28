@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: 11c314edc7c7a3842a44f6342cab634e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bob_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 641
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6802e4ffe92aa2409bd040b2cfed0d8
+      internalID: 417232100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 641
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2314f477a9e24364cb74a7b695a1834a
+      internalID: 1374420005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 641
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff495b245690df42842f1607781afe4
+      internalID: 1764416068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 641
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6891d6fa39534daee49559fd44960
+      internalID: -1461013300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 641
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949609c2b2902d34d87b8d9b8e319cfd
+      internalID: 1899318503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 641
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f36d88fb0a9242aedc991d43914fa
+      internalID: 1824698026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 591
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62145875af8e945b0a1743a0dd1614
+      internalID: -25942960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 591
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1904dcad7e1d9469c9f57e64432e38
+      internalID: 309087565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 591
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c361f255870f3244780949a39fb47f7e
+      internalID: 411502718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 591
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b081e48e8f06974980b992e3617f675
+      internalID: -911870772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 591
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c70ba557ab480439e9fe198282afc9
+      internalID: 1565670315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 591
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad35309b73b32e4a909f6cbafb63778
+      internalID: -408388762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 535
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446aa7d7d59facf48b405fb219822115
+      internalID: -634123688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 536
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed6864627c2804b8b59e83483e6651
+      internalID: -1935837685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 532
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0499f3f8771c44faf0ae19c8cdaff6
+      internalID: 945673177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 537
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572baa23f5a5c1f42a66b875135c71ad
+      internalID: 928707925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 537
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cd498cca860c46883016620c39514
+      internalID: 227986972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 534
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217998fd321ea2b45992b2322e8881f3
+      internalID: -1461151678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 535
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0271d543b657a458f8c7f000b092ea
+      internalID: -4279038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 535
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6211671accebaa44b8cb0c224d2651e
+      internalID: -1045450379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 477
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032abf00f92d974eb9d01495404d56d
+      internalID: -520455518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 477
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7f91458a9a424db27517397943e33
+      internalID: -830161070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 476
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca03792ed9d0304d9dacf339b2e51af
+      internalID: -1698653762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 476
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b34ef701973e468aea8ddc49c5638
+      internalID: -1238225123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 477
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c45b45bf03c114c9ff747313abcd8d
+      internalID: -461974879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 477
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f4adfbf42e3142ab90bc42f19927e
+      internalID: -1101231880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 477
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085a4e8b293d1a4d9cff387cde747c9
+      internalID: -111284339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 473
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920badf554217c46a68857b15b66025
+      internalID: -632042791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 473
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68657ac91498fb243afab1f7db7b32b0
+      internalID: -1187500707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 473
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39b5e58a3636242823e947d38bfdb8
+      internalID: 718556868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 472
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9f601a0c6035429575086bdedf78e
+      internalID: -953442882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 473
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf824432676ac41afa0357ecfb600a
+      internalID: -333627460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 473
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6cea987a750fb49888e358637dee86
+      internalID: -950183207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 473
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e330f7fb8544a4a98ee1aceae0ffa6
+      internalID: 204366762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 473
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c502dc8c8d6589c47bd7e33564bcfb38
+      internalID: -2091747855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 473
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6713ebd713e84e867e85df144f091
+      internalID: -948023553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 473
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7d79effbd8fcf448a458b4a0f9163d
+      internalID: -1271426792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 473
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d76ebd79bbaf4ab565aa3022b1d49
+      internalID: -1461898207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 473
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d2816aeea3c2c488112c4574c34c2e
+      internalID: 1192963456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 473
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b8d593cf35e9f40a131a1ee0df527e
+      internalID: 894358533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 466
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fcb89d9e70cf14b89027759b797e1f
+      internalID: 262785036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 465
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0f8674db778842bcfdfe607d0d20e
+      internalID: 223615178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 465
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc854061b73494688d04a3e987df9a
+      internalID: -202297877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 466
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799660ed8cf8b6e42a78d8ba2bdb0920
+      internalID: 1212634963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 466
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217ea7ec430bda143be3cf4af14f4b11
+      internalID: -1745639442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 464
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14256c9b5dbdc4e902a278054a58c5
+      internalID: -402167330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 464
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06a28d7e4ea0047a01dfba83f62f7f
+      internalID: 989426774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 465
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b51a78be21a941b936681aa4c3fc0
+      internalID: 1971730038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 466
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01027247b6e5b54daff0796cf709066
+      internalID: -1294026227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 419
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26bc1c0699beb48a7498ffc6afaff9
+      internalID: -236943301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 419
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ef9197e33e6cb439d9dd7cd9de4cf4
+      internalID: 97789276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 419
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec501537b3ed874c825f0a218c6f7c5
+      internalID: -1347387674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 419
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f41dcfd8985e4cb5c4a248ad2b96b
+      internalID: 398067842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 458
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a195f54b05b64199017186590b2cd
+      internalID: -1226134237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 417
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3a2482b7d467498e79e14b76f7930
+      internalID: -1534316752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 435
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a378eb3d51a3428a148f084d08f1c
+      internalID: -1886696507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 363
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e692cc3b8d5b409e7ec66d2c86249
+      internalID: -444719831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 363
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671313b4d5ca8d4cae8fb8ae23fbd63
+      internalID: -1611051876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd20b11f1a43c4c8201b220f8d4310
+      internalID: 1779313075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 363
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99be9cf750e77774cada16ac70a988ed
+      internalID: 1531299835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 363
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad3d05d535b48649a9c62c0b3cb2fc0
+      internalID: 1447631051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 303
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f484eda859074ca25f47cbefb935c
+      internalID: 323566195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 303
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8e47f8217b3f448e0f362039222ab
+      internalID: -1499837127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 305
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c67d050d35ec664ea0fec9505b15c68
+      internalID: 1806188213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 305
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b47cda9eb6d4478bd004cba2328c2
+      internalID: 1003423045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 306
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9435e30e6ae80b4dbdb223a4ccc1169
+      internalID: 1584115765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 305
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f4e7c6cb99b84b951ac9100357899
+      internalID: 771117244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 306
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec362b0fcf39d4ab7782d6d2505efc
+      internalID: -1342286790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2ef83ac4f04114f81ef8ff7965215d
+      internalID: 1727664944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5310d907029664283f997549562112
+      internalID: 229294586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 223
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc5ec4ae09f774098c981968350364
+      internalID: -1939981941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 221
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd49857610ccd940b55508cf22f06fb
+      internalID: 167699521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 219
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b470f5a353320489becc310620e113
+      internalID: 499203384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 219
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a127676269b3f41adad3219f4a39aa
+      internalID: -1706112465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 223
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf95576c36c1b84faf8a961071538db
+      internalID: -237124769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 223
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05defc559cf650343a72c955bd04d3fc
+      internalID: 61279029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b012a94c6a49d48aaec68edd64e7be
+      internalID: -1243722680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4c4f8c7e366c489a544b40397469d
+      internalID: 473284588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21fcb962f711e4bb45e6ffb39be73c
+      internalID: 690880726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee502f4e27930142acef806260533ad
+      internalID: 1403484292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4fa7859c1ae746858fcfeaa695be6
+      internalID: 1872653404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 117
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641137b69e9cf774987bb6d1ddbf52be
+      internalID: 2010295895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 116
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9956834ef2a0a343a9e87b85c8828b8
+      internalID: -1375663523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 65
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e5412460f2014cbac95448761969f
+      internalID: 1587154514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 65
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd260870d2afa81488243cc668e1502a
+      internalID: 456690970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d78c8088796e340a8aa54a717bfcec
+      internalID: 1712342201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 68
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597ae0fff16e6b43a3935784cc71598
+      internalID: 972366950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a56ead6db50344d95e5757a04daa5f
+      internalID: 134744940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc9a15977fedf4fb6bed8bbd42b391
+      internalID: -287146865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe784dd3197c4459e44682d44fb13a
+      internalID: 1365568345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8afe62a7cb5214d987d0264e44bcc1
+      internalID: 1475883372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a4be23bd747548b67099f4b675e19
+      internalID: -1066138378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 14
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44885dfb6e49b494a955ca1ce3324007
+      internalID: -1753345778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9caadb7653f7545aca8face9adeada
+      internalID: 2006358010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a6119a1222be149b0710c4f5874cd0
+      internalID: -2031628194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bob_Sprites_64: 1003423045
+      Bob_Sprites_36: -1271426792
+      Bob_Sprites_0: 417232100
+      Bob_Sprites_2: 1764416068
+      Bob_Sprites_55: -1886696507
+      Bob_Sprites_18: -4279038
+      Bob_Sprites_26: -111284339
+      Bob_Sprites_31: -333627460
+      Bob_Sprites_88: -287146865
+      Bob_Sprites_43: 1212634963
+      Bob_Sprites_73: -1706112465
+      Bob_Sprites_35: -948023553
+      Bob_Sprites_32: -950183207
+      Bob_Sprites_54: -1534316752
+      Bob_Sprites_19: -1045450379
+      Bob_Sprites_39: 894358533
+      Bob_Sprites_92: -1753345778
+      Bob_Sprites_89: 1365568345
+      Bob_Sprites_10: 1565670315
+      Bob_Sprites_77: 473284588
+      Bob_Sprites_90: 1475883372
+      Bob_Sprites_66: 771117244
+      Bob_Sprites_4: 1899318503
+      Bob_Sprites_85: 1712342201
+      Bob_Sprites_47: 1971730038
+      Bob_Sprites_59: 1531299835
+      Bob_Sprites_58: 1779313075
+      Bob_Sprites_16: 227986972
+      Bob_Sprites_79: 1403484292
+      Bob_Sprites_24: -461974879
+      Bob_Sprites_6: -25942960
+      Bob_Sprites_12: -634123688
+      Bob_Sprites_14: 945673177
+      Bob_Sprites_13: -1935837685
+      Bob_Sprites_57: -1611051876
+      Bob_Sprites_15: 928707925
+      Bob_Sprites_84: 456690970
+      Bob_Sprites_45: -402167330
+      Bob_Sprites_67: -1342286790
+      Bob_Sprites_87: 134744940
+      Bob_Sprites_63: 1806188213
+      Bob_Sprites_62: -1499837127
+      Bob_Sprites_20: -520455518
+      Bob_Sprites_1: 1374420005
+      Bob_Sprites_68: 1727664944
+      Bob_Sprites_25: -1101231880
+      Bob_Sprites_86: 972366950
+      Bob_Sprites_29: 718556868
+      Bob_Sprites_9: -911870772
+      Bob_Sprites_82: -1375663523
+      Bob_Sprites_83: 1587154514
+      Bob_Sprites_76: -1243722680
+      Bob_Sprites_75: 61279029
+      Bob_Sprites_49: -236943301
+      Bob_Sprites_5: 1824698026
+      Bob_Sprites_46: 989426774
+      Bob_Sprites_53: -1226134237
+      Bob_Sprites_51: -1347387674
+      Bob_Sprites_34: -2091747855
+      Bob_Sprites_28: -1187500707
+      Bob_Sprites_93: 2006358010
+      Bob_Sprites_21: -830161070
+      Bob_Sprites_33: 204366762
+      Bob_Sprites_23: -1238225123
+      Bob_Sprites_3: -1461013300
+      Bob_Sprites_38: 1192963456
+      Bob_Sprites_91: -1066138378
+      Bob_Sprites_80: 1872653404
+      Bob_Sprites_50: 97789276
+      Bob_Sprites_11: -408388762
+      Bob_Sprites_70: -1939981941
+      Bob_Sprites_48: -1294026227
+      Bob_Sprites_60: 1447631051
+      Bob_Sprites_41: 223615178
+      Bob_Sprites_52: 398067842
+      Bob_Sprites_40: 262785036
+      Bob_Sprites_61: 323566195
+      Bob_Sprites_65: 1584115765
+      Bob_Sprites_78: 690880726
+      Bob_Sprites_17: -1461151678
+      Bob_Sprites_74: -237124769
+      Bob_Sprites_94: -2031628194
+      Bob_Sprites_69: 229294586
+      Bob_Sprites_72: 499203384
+      Bob_Sprites_71: 167699521
+      Bob_Sprites_81: 2010295895
+      Bob_Sprites_8: 411502718
+      Bob_Sprites_37: -1461898207
+      Bob_Sprites_27: -632042791
+      Bob_Sprites_22: -1698653762
+      Bob_Sprites_42: -202297877
+      Bob_Sprites_30: -953442882
+      Bob_Sprites_7: 309087565
+      Bob_Sprites_44: -1745639442
+      Bob_Sprites_56: -444719831
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -28,7 +28,6 @@ public class EnemyMovement : MonoBehaviour
         FlipEnemy();
     }
 
-
     void FlipEnemy()
     {
         transform.localScale = new Vector2(-transform.localScale.x, transform.localScale.y);

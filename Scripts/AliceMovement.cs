@@ -35,7 +35,7 @@ public class AliceMovement : MonoBehaviour
         jumpSpeed = 15f;
         bounceSpeed = 1.25f;
         defaultPlayerGravity = 3f;
-        forwardDashSpeed = 30f;
+        forwardDashSpeed = 15f;
         forwardDashPeriod = 0.75f;
 
         countSpaceBar = 0;
@@ -105,6 +105,7 @@ public class AliceMovement : MonoBehaviour
             Vector2 aliceVelocity = new Vector2(forwardDashSpeed*scale, 0f);
             rigidBodyAlice.velocity = aliceVelocity;
             rigidBodyAlice.gravityScale = 0f;
+            animatorPlayer.SetBool("isForwardDash", forwardDashTriggered);
 
         }
        
@@ -116,6 +117,7 @@ public class AliceMovement : MonoBehaviour
         forwardDashTriggered = false;
         rigidBodyAlice.gravityScale = defaultPlayerGravity;
         countSpaceBar = 0;
+        animatorPlayer.SetBool("isForwardDash", forwardDashTriggered);
 
     }
 
@@ -138,6 +140,7 @@ public class AliceMovement : MonoBehaviour
         aliceHasHorizontalSpeed = Mathf.Abs(rigidBodyAlice.velocity.x) > Mathf.Epsilon;
         animatorPlayer.SetBool("isRunning", aliceHasHorizontalSpeed);
 
+        
     }
 
     void FlipSprite()

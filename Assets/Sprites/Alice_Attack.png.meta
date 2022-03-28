@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4c825e76fcd638f4db7225a0e1c8773e
+guid: c16873f6888faf24e92409a78b475625
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,12 +104,54 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alice_ForwardDash_0
+      name: Alice_Attack_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 2
-        width: 22
+        x: 27
+        y: 0
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06675fac0cb618b438c45520dd145d91
+      internalID: -816330342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576d9336d47eb24494aa51b8b56b2ef
+      internalID: 1092216256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 65
         height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -118,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8554d6ec86ae6c4daff3289a317fe6c
-      internalID: -1462844314
+      spriteID: 25b9a5a6d73067a41a0c73f8250208a1
+      internalID: 2606480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_1
+      name: Alice_Attack_3
       rect:
         serializedVersion: 2
-        x: 164
-        y: 6
-        width: 35
-        height: 27
+        x: 401
+        y: 0
+        width: 59
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 116a62e03f57ad64095c92b88be389cb
-      internalID: 1231818038
+      spriteID: f731d705cc61e6747be8fa9f36f03287
+      internalID: 2062636375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_2
+      name: Alice_Attack_4
       rect:
         serializedVersion: 2
-        x: 284
-        y: 9
-        width: 39
-        height: 22
+        x: 510
+        y: 0
+        width: 38
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,62 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d77d29c178c25974eb0e7294d37ac8cd
-      internalID: -649506779
+      spriteID: 143f9eb680dc0854ea67c937d6aa6691
+      internalID: 1669228430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_3
+      name: Alice_Attack_5
       rect:
         serializedVersion: 2
-        x: 403
-        y: 13
-        width: 41
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7705102e801795b4ba0c7d9c672d1878
-      internalID: -1983423638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_4
-      rect:
-        serializedVersion: 2
-        x: 523
-        y: 13
-        width: 40
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06681d3c7fb1b604a8c3e78b54e172f2
-      internalID: -190674584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_5
-      rect:
-        serializedVersion: 2
-        x: 642
-        y: 8
+        x: 626
+        y: 0
         width: 42
-        height: 21
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f23be60d9fa3be04fbd4247976613e86
-      internalID: -401099282
+      spriteID: 1848f3eedb239094e8e15a7f9256ca39
+      internalID: -213148081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_6
+      name: Alice_Attack_6
       rect:
         serializedVersion: 2
-        x: 768
+        x: 747
         y: 0
-        width: 26
-        height: 31
+        width: 77
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c12a74772ec5884c9c49bb96b27e8f5
-      internalID: -2100469862
+      spriteID: 8f738d65485ddf0498c017fc554c0a96
+      internalID: -588597132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_7
+      name: Alice_Attack_7
       rect:
         serializedVersion: 2
-        x: 894
+        x: 864
         y: 0
-        width: 21
-        height: 26
+        width: 64
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d541a9bf4e0cb2d4ea3fdd570f364196
-      internalID: -497116325
+      spriteID: 102bcbd3fb5849b45b87c338de26722a
+      internalID: -1556692386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_8
+      name: Alice_Attack_8
       rect:
         serializedVersion: 2
-        x: 1016
+        x: 984
         y: 0
-        width: 23
-        height: 21
+        width: 46
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: becc3da0073548f4f9836d7f052e64ed
-      internalID: -1780726196
+      spriteID: 9645fea1a22832148a0831cd1533b55d
+      internalID: 973952462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_9
+      name: Alice_Attack_9
       rect:
         serializedVersion: 2
-        x: 1130
+        x: 1104
         y: 0
-        width: 24
-        height: 19
+        width: 45
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,50 +307,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1947da0cba11f049b196bf5775d28ae
-      internalID: -944662191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_10
-      rect:
-        serializedVersion: 2
-        x: 1250
-        y: 0
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eac0e55d85e226345bdb00ff37855c19
-      internalID: 624334164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_11
-      rect:
-        serializedVersion: 2
-        x: 1366
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a260bfb02abf6e146bdc3dff424d3825
-      internalID: -131671398
+      spriteID: d6478d40a683e384593bd2d39b8b6f36
+      internalID: -1313933229
       vertices: []
       indices: 
       edges: []
@@ -366,18 +324,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Alice_ForwardDash_8: -1780726196
-      Alice_ForwardDash_4: -190674584
-      Alice_ForwardDash_9: -944662191
-      Alice_ForwardDash_11: -131671398
-      Alice_ForwardDash_2: -649506779
-      Alice_ForwardDash_5: -401099282
-      Alice_ForwardDash_7: -497116325
-      Alice_ForwardDash_6: -2100469862
-      Alice_ForwardDash_3: -1983423638
-      Alice_ForwardDash_10: 624334164
-      Alice_ForwardDash_1: 1231818038
-      Alice_ForwardDash_0: -1462844314
+      Alice_Attack_0: -816330342
+      Alice_Attack_1: 1092216256
+      Alice_Attack_2: 2606480
+      Alice_Attack_6: -588597132
+      Alice_Attack_4: 1669228430
+      Alice_Attack_7: -1556692386
+      Alice_Attack_5: -213148081
+      Alice_Attack_8: 973952462
+      Alice_Attack_9: -1313933229
+      Alice_Attack_3: 2062636375
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

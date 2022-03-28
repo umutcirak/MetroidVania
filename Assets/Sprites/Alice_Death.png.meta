@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4c825e76fcd638f4db7225a0e1c8773e
+guid: 43c09747d7f23f04d866ef4ec4b8d0f5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alice_ForwardDash_0
+      name: Alice_Death_0
       rect:
         serializedVersion: 2
-        x: 51
+        x: 36
+        y: 0
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f61c6eb63c5b140be83f97e2033d96
+      internalID: 1826924392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Death_1
+      rect:
+        serializedVersion: 2
+        x: 151
         y: 2
-        width: 22
-        height: 36
+        width: 29
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8554d6ec86ae6c4daff3289a317fe6c
-      internalID: -1462844314
+      spriteID: 35f68942d78290440a11de96656d74e2
+      internalID: -1716898516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_1
+      name: Alice_Death_2
       rect:
         serializedVersion: 2
-        x: 164
+        x: 265
         y: 6
-        width: 35
-        height: 27
+        width: 32
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,19 +160,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 116a62e03f57ad64095c92b88be389cb
-      internalID: 1231818038
+      spriteID: 76312f53423c1214a99d5ebf76c8bb93
+      internalID: -1876058222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_2
+      name: Alice_Death_3
       rect:
         serializedVersion: 2
-        x: 284
-        y: 9
-        width: 39
+        x: 379
+        y: 7
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1de7f596a2a64ea42e15b76b2dfe4
+      internalID: 1313594330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Death_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6074c46b27434885a8690be82affd
+      internalID: 1180467758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Death_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c9eb9d85e00742b0e795558ecc07a
+      internalID: -1508669246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Death_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 37
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -160,20 +244,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d77d29c178c25974eb0e7294d37ac8cd
-      internalID: -649506779
+      spriteID: 3aa76e45704fe084ba9d9c3329a4a9a4
+      internalID: 898192765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_3
+      name: Alice_Death_7
       rect:
         serializedVersion: 2
-        x: 403
-        y: 13
+        x: 853
+        y: 0
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca406ef11def640a4e07ef4ac998e8
+      internalID: -1844329425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alice_Death_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
         width: 41
-        height: 17
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,62 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7705102e801795b4ba0c7d9c672d1878
-      internalID: -1983423638
+      spriteID: 64a141b991b9f0540be7213d3bc7c6a1
+      internalID: 136732140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Alice_ForwardDash_4
+      name: Alice_Death_9
       rect:
         serializedVersion: 2
-        x: 523
-        y: 13
-        width: 40
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06681d3c7fb1b604a8c3e78b54e172f2
-      internalID: -190674584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_5
-      rect:
-        serializedVersion: 2
-        x: 642
-        y: 8
-        width: 42
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f23be60d9fa3be04fbd4247976613e86
-      internalID: -401099282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_6
-      rect:
-        serializedVersion: 2
-        x: 768
+        x: 1093
         y: 0
-        width: 26
-        height: 31
+        width: 41
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,113 +307,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c12a74772ec5884c9c49bb96b27e8f5
-      internalID: -2100469862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_7
-      rect:
-        serializedVersion: 2
-        x: 894
-        y: 0
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d541a9bf4e0cb2d4ea3fdd570f364196
-      internalID: -497116325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_8
-      rect:
-        serializedVersion: 2
-        x: 1016
-        y: 0
-        width: 23
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: becc3da0073548f4f9836d7f052e64ed
-      internalID: -1780726196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_9
-      rect:
-        serializedVersion: 2
-        x: 1130
-        y: 0
-        width: 24
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1947da0cba11f049b196bf5775d28ae
-      internalID: -944662191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_10
-      rect:
-        serializedVersion: 2
-        x: 1250
-        y: 0
-        width: 20
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eac0e55d85e226345bdb00ff37855c19
-      internalID: 624334164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Alice_ForwardDash_11
-      rect:
-        serializedVersion: 2
-        x: 1366
-        y: 0
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a260bfb02abf6e146bdc3dff424d3825
-      internalID: -131671398
+      spriteID: 1aa221130b01ece4f892bb7b3611f663
+      internalID: 115585437
       vertices: []
       indices: 
       edges: []
@@ -366,18 +324,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Alice_ForwardDash_8: -1780726196
-      Alice_ForwardDash_4: -190674584
-      Alice_ForwardDash_9: -944662191
-      Alice_ForwardDash_11: -131671398
-      Alice_ForwardDash_2: -649506779
-      Alice_ForwardDash_5: -401099282
-      Alice_ForwardDash_7: -497116325
-      Alice_ForwardDash_6: -2100469862
-      Alice_ForwardDash_3: -1983423638
-      Alice_ForwardDash_10: 624334164
-      Alice_ForwardDash_1: 1231818038
-      Alice_ForwardDash_0: -1462844314
+      Alice_Death_0: 1826924392
+      Alice_Death_5: -1508669246
+      Alice_Death_9: 115585437
+      Alice_Death_1: -1716898516
+      Alice_Death_6: 898192765
+      Alice_Death_4: 1180467758
+      Alice_Death_2: -1876058222
+      Alice_Death_8: 136732140
+      Alice_Death_7: -1844329425
+      Alice_Death_3: 1313594330
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

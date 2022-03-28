@@ -15,9 +15,10 @@ GameObject:
   - component: {fileID: 2905947691069973837}
   - component: {fileID: 2905947691069973846}
   - component: {fileID: 35578826454355652}
-  m_Layer: 0
+  - component: {fileID: 1566737013}
+  m_Layer: 8
   m_Name: Alice (Player)
-  m_TagString: Untagged
+  m_TagString: Alice
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49,7 +50,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: 0}
+  m_Actions: {fileID: -944628639613478452, guid: 29a79bef834b7854cb3612645c034dd9, type: 3}
   m_NotificationBehavior: 0
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
@@ -64,7 +65,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: 
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!212 &2905947691069973840
@@ -132,8 +133,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.5, y: 1}
+  m_Offset: {x: 0.0076060295, y: -0.038028717}
+  m_Size: {x: 0.5760565, y: 1.0760574}
   m_Direction: 0
 --- !u!50 &2905947691069973837
 Rigidbody2D:
@@ -149,13 +150,13 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_AngularDrag: 0
+  m_GravityScale: 2
+  m_Material: {fileID: 6200000, guid: 41e14d2d78e5a4e4bb55796b6a73a11b, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!61 &2905947691069973846
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -169,7 +170,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.5228455}
+  m_Offset: {x: 0.019013405, y: -0.56848}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -180,7 +181,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.59375, y: 0.11065912}
+  m_Size: {x: 0.26670265, y: 0.1106596}
   m_EdgeRadius: 0
 --- !u!114 &35578826454355652
 MonoBehaviour:
@@ -197,4 +198,25 @@ MonoBehaviour:
   moveSpeed: 0
   jumpSpeed: 0
   climbSpeed: 0
+  forwardDashSpeed: 0
   deathPunch: {x: 0, y: 10}
+--- !u!95 &1566737013
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2905947691069973839}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e1d8701a863ebcc4686d15ec96dec004, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

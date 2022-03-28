@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Alice
+  - Enemy
+  - Bob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Player
+  - Enemies
+  - Bouncing
+  - Danger
+  - Bullet
+  - Stroke
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3459563885
+    locked: 0
+  - name: Ground
+    uniqueID: 96995323
+    locked: 0
+  - name: Bouncing
+    uniqueID: 1057809231
+    locked: 0
+  - name: Danger
+    uniqueID: 1847168129
+    locked: 0
+  - name: Enemies
+    uniqueID: 2067210191
+    locked: 0
+  - name: Player
+    uniqueID: 3693506919
+    locked: 0
